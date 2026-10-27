@@ -86,7 +86,7 @@ Seeking entry-level opportunities as a **Python Full Stack Developer or Software
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [Sravani Kanchukommula](https://www.linkedin.com/in/sravani-kanchukommula/)
+- 💼 **LinkedIn:** [Sravani Kanchukommula](https://www.linkedin.com/in/sravani-kanchukommula)
 - 🐙 **GitHub:** [kanchukommula-sravani](https://github.com/kanchukommula-sravani)
 
 ---
