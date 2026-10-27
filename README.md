@@ -36,6 +36,8 @@ I'm a Computer Science and Engineering graduate passionate about building respon
 
 ## 🚀 Projects
 
+## 🚀 Projects
+
 ### 1. Employee Management System
 
 A web application that allows users to manage employee records through an interactive interface.
@@ -54,19 +56,27 @@ A web application that allows users to manage employee records through an intera
 
 🌐 **[Live Demo](https://kanchukommula-sravani.github.io/employee-management-system/)**
 
-### 2. HTML & CSS UI Recreation Projects
+### 2. Mini E-Commerce Website — ShopEasy
 
-A collection of website UI recreation projects built to practise frontend development, layout design, and responsive styling.
+A multi-page e-commerce website developed to practise frontend web development and create a user-friendly online shopping interface.
 
-**Projects include:** Spotify, Uber, District, Blinkit, and other website UI recreations.
+**Features**
+- Home page with product listings
+- Product details page
+- Shopping cart page
+- Login and registration interfaces
+- Multiple interconnected web pages
+- Interactive elements using JavaScript
 
-**Technologies:** HTML5, CSS3, Flexbox, CSS Grid, Media Queries
+**Technologies:** HTML5, CSS3, JavaScript
 
-🔗 **[View Project Repository](https://github.com/kanchukommula-sravani/html-css-ui-recreations)**
+🔗 **[View Source Code](https://github.com/kanchukommula-sravani/Mini-Ecommerce)**
+
+🌐 **[Live Demo](https://kanchukommula-sravani.github.io/Mini-Ecommerce/)**
 
 ### 3. Aviation Safety Through Machine Learning
 
-A final-year academic project focused on exploring how Machine Learning and psychophysiological data can contribute to aviation safety.
+A final-year academic project exploring how Machine Learning and psychophysiological data can contribute to aviation safety by identifying indicators associated with pilot stress and fatigue.
 
 **Technologies:** Python, Machine Learning, Scikit-learn, TensorFlow
 
